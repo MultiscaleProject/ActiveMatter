@@ -1,17 +1,10 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 28 10:35:46 2020
+# Created on Sun Apr 6 11:31:02 2019
 
-@author: lgz
-"""
+# Last Updated on November 28, 2020
 
+# Author: Gouzheng Lin and Cristian Huepe
 
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 6 11:31:02 2019
-
-@author: lgz
-"""
 import numpy as np
 import numba as nb
 from math import sin, cos, sqrt, pi
