@@ -2,4 +2,4 @@
 
 # Active Elastic Alignment Model
 
-# Author: Gouzheng Lin and Cristian Huepe
+Author: Gouzheng Lin and Cristian Huepe
