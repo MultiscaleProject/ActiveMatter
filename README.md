@@ -8,5 +8,5 @@ $^1$ School of Systems Science, Beijing Normal University, Beijing, People’s R
 
 $^2$ Northwestern Institute on Complex Systems and ESAM, Northwestern University, Evanston, IL 60208, United States of America,
 
-$^3$ CHuepe Labs, 2713 West Haddon Ave #1, Chicago, IL 60622, United States of America,
+$^3$ CHuepe Labs, 2713 West Haddon Ave #1, Chicago, IL 60622, United States of America
 
