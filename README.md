@@ -2,7 +2,7 @@
 
 Collaborators: 
 
-Gouzheng Lin $\sqrt{3x-1}+(1+x)^2$
+Gouzheng Lin $^1$
 
 School of Systems Science, Beijing Normal University, Beijing, People’s Republic of China
 
