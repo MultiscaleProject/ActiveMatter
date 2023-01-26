@@ -2,7 +2,7 @@
 
 Collaborators: 
 
-Gouzheng Lin
+Gouzheng Lin$^1$
 
 School of Systems Science, Beijing Normal University, Beijing, People’s Republic of China
 
