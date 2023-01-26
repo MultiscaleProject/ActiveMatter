@@ -1,9 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jan  8 22:02:58 2021
 
-@author: lgz
-"""
+# Created on March 20, 2022
+# Last Update on January 26, 2023
+
+# Author: Gouzheng Lin, Amir Shee, and Cristian Huepe
+
+
 import numpy as np
 import numba as nb
 from numpy import sin, cos, sqrt, pi, arctan2
