@@ -2,7 +2,7 @@
 
 Collaborators: 
 
-Gouzheng Lin$$^1$$
+Gouzheng Lin$\sqrt{3x-1}+(1+x)^2$
 
 School of Systems Science, Beijing Normal University, Beijing, People’s Republic of China
 
