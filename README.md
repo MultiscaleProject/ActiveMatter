@@ -5,7 +5,7 @@ Collaborators:
 Gouzheng Lin$^1$
 
 ```math
-\sqrt{3}
+^1
 ```
 
 School of Systems Science, Beijing Normal University, Beijing, People’s Republic of China
