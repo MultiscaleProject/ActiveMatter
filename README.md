@@ -2,19 +2,11 @@
 
 Collaborators: 
 
-Gouzheng Lin $^1$
+Gouzheng Lin $^1$ , Amir Shee $^2$ , and Cristián Huepe $^1 ^2 ^3$
 
-School of Systems Science, Beijing Normal University, Beijing, People’s Republic of China
+$^1$ School of Systems Science, Beijing Normal University, Beijing, People’s Republic of China,
 
-Amir Shee
+$^2$ Northwestern Institute on Complex Systems and ESAM, Northwestern University, Evanston, IL 60208, United States of America,
 
-Northwestern Institute on Complex Systems and ESAM, Northwestern University, Evanston, IL 60208, United States of America
-
-Cristián Huepe
-
-School of Systems Science, Beijing Normal University, Beijing, People’s Republic of China,
-
-CHuepe Labs, 2713 West Haddon Ave #1, Chicago, IL 60622, United States of America,
-
-Northwestern Institute on Complex Systems and ESAM, Northwestern University, Evanston, IL 60208, United States of America
+$^3$ CHuepe Labs, 2713 West Haddon Ave #1, Chicago, IL 60622, United States of America,
 
