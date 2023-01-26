@@ -2,9 +2,7 @@
 
 Collaborators: 
 
-Gouzheng Lin$^1$
-
-```math
+Gouzheng Lin```math
 ^1
 ```
 
