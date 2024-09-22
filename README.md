@@ -28,7 +28,7 @@ $^4$ Lorentz Institute for Theoretical Physics, LION, Leiden University, P.O. Bo
 
 Project Overview:
 
-This repository contains the code and documentation for the Active Matter project, where we focus on the numerical modeling of complex active elastic systems. These models explore rich behaviors that emerge in active matter, characterized by the interplay between elasticity and self-driven motion.
+This repository contains the code and documentation for the # Active Matter project, where we focus on the numerical modeling of complex active elastic systems. These models explore rich behaviors that emerge in active matter, characterized by the interplay between elasticity and self-driven motion.
 
 Our work is aimed at understanding and predicting the collective dynamics of these systems through rigorous simulations, employing state-of-the-art techniques. The results provide insights into both theoretical predictions and real-world applications, including soft robotics, biological systems, and materials science.
 
