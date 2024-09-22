@@ -1,8 +1,15 @@
 # Active Matter
 
+Project Owner : Cristián Huepe $^{1,}$ $^{2,}$ $^3$
+
+Postdoctoral Scholar : Amir Shee $^2$
+
 Collaborators: 
 
-Gouzheng Lin $^1$ , Amir Shee $^2$ , and Cristián Huepe $^{1,}$ $^{2,}$ $^3$
+Gouzheng Lin $^1$
+
+
+
 
 $^1$ School of Systems Science, Beijing Normal University, Beijing, People’s Republic of China,
 
