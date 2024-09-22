@@ -12,7 +12,7 @@ Guozheng Lin<sup>1</sup>, Zhangang Han<sup>1</sup>, Amir Shee<sup>2</sup>, Crist
 
 ### Project Overview
 
-This repository provides the code and resources for simulating **quenched disorder (QD)** in dense active systems, as introduced in our paper. The model represents **self-propelled polar disks** with non-isotropic rotational and translational dynamics, which interact through linear repulsive forces. These interactions give rise to a novel **noise-induced quenched disorder state**, observed at intermediate noise levels, where agents become jammed in random orientations with small fluctuations around their fixed positions.
+This repository provides the code and resources for simulating **quenched disorder (QD)** in dense active systems, as introduced in our paper (Phys. Rev. Lett. 131, 168301 – Published 17 October 2023). The model represents **self-propelled polar disks** with non-isotropic rotational and translational dynamics, which interact through linear repulsive forces. These interactions give rise to a novel **noise-induced quenched disorder state**, observed at intermediate noise levels, where agents become jammed in random orientations with small fluctuations around their fixed positions.
 
 The simulations explore various phases, including:
 1. **Moving Order (MO)** - Agents align in a common direction.
