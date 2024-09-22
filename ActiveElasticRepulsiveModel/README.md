@@ -1,4 +1,4 @@
-# Active Elastic Off-centered Soft Disks Simulation
+# Active Elastic Off-Centered Soft Disks Simulation
 
 **Authors**:  
 Guozheng Lin<sup>1</sup>, Zhangang Han<sup>1</sup>, Amir Shee<sup>2</sup>, Cristián Huepe<sup>1, 2, 3</sup>
