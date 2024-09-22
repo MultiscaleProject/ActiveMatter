@@ -20,17 +20,3 @@ The simulations explore various phases, including:
 3. **Quenched Disorder (QD)** - Intermediate noise induces jamming with fluctuating headings.
 
 ---
-
-### How to Use the Code
-
-#### Prerequisites:
-- Python 3.x
-- Required libraries can be installed via `requirements.txt`.
-
-#### Installation:
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/yourusername/QuenchedDisorderModel.git
-cd QuenchedDisorderModel
-pip install -r requirements.txt
