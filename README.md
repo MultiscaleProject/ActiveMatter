@@ -1,12 +1,12 @@
 # Active Matter
 
-Project Owner: 
+**Project Owner:** 
 Cristián Huepe $^{1,}$ $^{2,}$ $^3$
 
-Postdoctoral Scholar: 
+**Postdoctoral Scholar:** 
 Amir Shee $^2$
 
-Collaborators: 
+**Collaborators:** 
 
 Gouzheng Lin $^1$
 
@@ -16,7 +16,7 @@ Silke Henkes $^4$
 
 
 
-Affiliations:
+**Affiliations:**
 
 $^1$ School of Systems Science, Beijing Normal University, Beijing, People’s Republic of China.
 
@@ -26,7 +26,7 @@ $^3$ CHuepe Labs, 2713 West Haddon Ave #1, Chicago, IL 60622, United States of A
 
 $^4$ Lorentz Institute for Theoretical Physics, LION, Leiden University, P.O. Box 9504, 2300 RA Leiden, The Netherlands.
 
-Project Overview:
+***Project Overview:***
 
 This repository contains the code and documentation for the # Active Matter project, where we focus on the numerical modeling of complex active elastic systems. These models explore rich behaviors that emerge in active matter, characterized by the interplay between elasticity and self-driven motion.
 
