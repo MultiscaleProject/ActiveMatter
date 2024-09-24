@@ -36,12 +36,16 @@ This model diverges from traditional alignment-based collective motion models by
 
 ### Running the Application
 
+1. Open [Online Version](https://editor.p5js.org/saulhuitzil/full/KN0TT9HPo)
+
+#### Alternative
+
 1. Clone this repository:
    ```bash
    git clone https://github.com/MultiscaleProject/ActiveMatter.git
 
 2. Navigate to the Interactive Application - Active Elastic System directory.
-3. Open index.html in your preferred web browser.
+3. Open index.html in your preferred web browser (Firefox recommended).
 
 
 
