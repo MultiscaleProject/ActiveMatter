@@ -19,7 +19,7 @@ The project is an interactive simulation of an agent-based system implemented us
 
 The **Active Elastic System** is based on the work presented in the paper "Elasticity-Based Mechanism for the Collective Motion of Self-Propelled Particles with Springlike Interactions" by Ferrante et al. (2013). This model introduces a novel mechanism where collective motion emerges from elastic deformations between self-propelled agents, without requiring explicit alignment interactions.
 
-### Core Equations:
+### Core Equation:
 
 - **Position Update**:  
   $\mathbf{x}_i = v_0 \hat{n}_i + \alpha \left[ (\mathbf{F}_i + D_r \xi_r) \cdot \hat{n}_i \right] \hat{n}_i$
@@ -47,36 +47,7 @@ This model diverges from traditional alignment-based collective motion models by
 2. Navigate to the Interactive Application - Active Elastic System directory.
 3. Open index.html in your preferred web browser (Firefox recommended).
 
-
-
-
-   
-
-
-
 ## Main Components
-
-### Global Variables
-- **Interface Elements**: 
-  - `controlPanel`: Manages the display and interaction areas for controls.
-  - `buttons`: Handles user interface buttons for creating, removing, and connecting agents.
-  - `importExport`: Manages importing and exporting data.
-
-- **System State Variables**: 
-  - `myXSystem`: Manages the collection of agents and connections.
-  - `gridReferencePosition`: Tracks the position of the grid reference point.
-
-- **Simulation Parameters**:
-  - `_r`, `_v0`, `_alpha`, `_beta`, `_dTheta`, `_k`: Sliders controlling various agent and connection properties such as radius, speed, force constants, etc.
-  - `updateParameters`: A flag indicating when to update the system with new parameter values.
-
-### Key Functions
-
-- **`setup()`**: Initializes the canvas, creates the interface elements, and sets up the main agent system.
-- **`draw()`**: The main rendering loop. It updates the simulation, redraws the control panels, manages grid movement, and displays the agents and their connections.
-- **Interaction Functions**: Handle user interactions with the keyboard and mouse:
-  - `keyPressed()`: Toggles various modes such as creating or deleting agents.
-  - `mousePressed()`, `mouseReleased()`, `mouseDragged()`: Allow for dragging agents, creating connections, and interacting with the simulation environment.
 
 ### Classes
 
