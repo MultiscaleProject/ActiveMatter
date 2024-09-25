@@ -734,11 +734,11 @@ class ControlPanel {
   }
 
   CreateSliders() {
-    let ys = this.yy00 + 34 + this.posSlidersY0;
-    let xs = this.xx00 + 10;
+    let ys = this.yy00 + 37 + this.posSlidersY0;
+    let xs = this.xx00 + 33;
     let dy = 23;
 
-    d_t = createSlider(0.0, 0.1, 0.0, 0.0001);
+    d_t = createSlider(0, 0.1, 0.0, 0.0001);
     _r = createSlider(0, 50, 10, 0.1);
     _v0 = createSlider(0, 100, 10, 0.005);
     _alpha = createSlider(0, 0.5, 0.3, 0.001);
@@ -765,11 +765,11 @@ class ControlPanel {
     _k.style("width", "60px");
 
     this.radio = createSlider(3, 40, 20, 0.5);
-    this.radio.position(xs, 550);
+    this.radio.position(30, 550);
     this.radio.style("width", "60px");
 
     this.grosor = createSlider(0.5, 3, 1.0, 0.1);
-    this.grosor.position(xs, 580);
+    this.grosor.position(30, 580);
     this.grosor.style("width", "60px");
   }
 
@@ -781,18 +781,28 @@ class ControlPanel {
     let dy = 23;
     let xtxt = this.xx00 + 100;
     
-    textSize(12)
+    textSize(13)
     text("Time Interval", 25, 160);
     text("=  " + str(d_t.value()), xtxt, ys);
+    
+    text("R", 25, 205);
     text("=  " + nfc(_r.value() / 1000, 3), xtxt, (ys += 1.5*dy));
+    
+    text("v0", 25, 238);
     text("=  " + nfc(_v0.value() / 1000, 2), xtxt, (ys += 1.5*dy));
+    
+    text("Alpha", 25, 270);
     text("=  " + str(_alpha.value()), xtxt, (ys += 1.5*dy));
+    
+    text("Beta", 25, 303);
     text("=  " + str(_beta.value()), xtxt, (ys += 1.5*dy));
+    
+    text("Noise", 25, 340);
     text("=  " + nfc(_dTheta.value(), 3), xtxt, (ys += 1.5*dy));
     
     textSize(15)
     
-    text("Spring constant", 40, 415);
+    text("Spring constant", 30, 420);
     ys += 3*dy;
     text("=  " + str(_k.value()), xtxt, (ys += dy));
     
@@ -1179,5 +1189,3 @@ class Agent {
     }
   }
 }
-
-
