@@ -37,29 +37,7 @@ pip install numpy matplotlib
 ## Overview
 `simulation.py` handles reading particle position and velocity data from CSV files and calculating equilibrium positions for a chiral active Brownian particle system. It can also generate a plot of equilibrium positions and orientations.
 
-## Prerequisites
-- Python 3.x
-- Required libraries:
-  - `numpy`
-  - `matplotlib`
-
-Install dependencies via:
-```bash
-pip install numpy matplotlib
-
-
-# `analysis.py`
+# `full_analysis.py`
 
 ## Overview
 `analysis.py` reads data from output files generated in the simulation and fits models to extract the parameters `B` and `G`. It also generates plots for each `chi` value and saves the fitted values to a text file.
-
-## Prerequisites
-- Python 3.x
-- Required libraries:
-  - `numpy`
-  - `matplotlib`
-  - `scipy`
-
-Install dependencies via:
-```bash
-pip install numpy matplotlib scipy
