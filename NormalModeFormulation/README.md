@@ -20,18 +20,6 @@ pip install numpy matplotlib dask
 ## Overview
 `hessian.py` is responsible for constructing and diagonalizing the Hessian matrix for chiral active Brownian particles. It also calculates the normal modes (eigenvalues and eigenvectors) and provides functionality to compute Fourier-transformed moduli and plot various quantities like force vectors and eigenvalues.
 
-## Prerequisites
-- Python 3.x
-- Required libraries:
-  - `numpy`
-  - `matplotlib`
-  - `pickle`
-  
-Install them via:
-```bash
-pip install numpy matplotlib
-
-
 # `simulation.py`
 
 ## Overview
